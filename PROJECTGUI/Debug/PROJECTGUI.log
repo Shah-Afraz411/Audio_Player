@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\HP\source\repos\PROJECTGUI\PROJECTGUI\Header.h(272,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\source\repos\PROJECTGUI\PROJECTGUI\MyForm.h(439): warning C4700: uninitialized local variable 'i' used
+C:\Users\HP\source\repos\PROJECTGUI\PROJECTGUI\MyForm.h(452): warning C4700: uninitialized local variable 'i' used
+C:\Users\HP\source\repos\PROJECTGUI\PROJECTGUI\MyForm.h(470): warning C4700: uninitialized local variable 'i' used
+  PROJECTGUI.vcxproj -> C:\Users\HP\source\repos\PROJECTGUI\Debug\PROJECTGUI.exe
